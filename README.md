@@ -12,6 +12,6 @@ When the user has 1000 samosas, they can buy the Full Feast upgrade, which produ
 The game continues on forever and the user can continue to gain gigantic amounts of samosas. Yum!
 
 ## By the end of this lab you will be able to...
-Use useState hook to create a state variable and a function that is used to update the state
-Register an onClick event to a button in a React project
-Define event handling functions in a React project
+* Use useState hook to create a state variable and a function that is used to update the state
+* Register an onClick event to a button in a React project
+* Define event handling functions in a React project
